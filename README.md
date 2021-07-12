@@ -29,7 +29,7 @@ Selenium.Webdriver
 Selenium.Webdriver,chromedrriver
 
 # Manual Test cases
-** Test cases for Website**
+• Test cases for Website
 1.Login through the Trello Application successfully
 2.Login through the Trello Application with long credentials
 3.Create a new board
@@ -37,7 +37,7 @@ Selenium.Webdriver,chromedrriver
 5.Update a new board
 6 Delete a new board
 
-**API test cases*
+• API test cases*
 1.API check
 2.Create and delete a board
 3.Create Trello Board with incorrect key
